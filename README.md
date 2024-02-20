@@ -10,3 +10,4 @@ As you can see in the images the colour is changing and the email and passowrd i
 
 
 
+![image](https://github.com/agmk1/Animated_login_Form/assets/97788724/f89c894d-19ac-417f-bcfd-9ee6b567a094)
